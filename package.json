@@ -1,0 +1,19 @@
+{
+  "name": "project-demo-01",
+  "version": "1.0.0",
+  "description": "Ejemplo UNL Docker",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "bootstrap",
+    "express"
+  ],
+  "author": "Cristian Narvaez <cristian.narvaez@unl.edu.ec>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
